@@ -21,7 +21,7 @@ Membantu guru dan peserta didik mempelajari materi TKA dengan cara yang lebih **
 
 Silakan buka halaman utama MPI TKA:
 
-👉 **https://nirsinggih.github.io/mpi-tka/index.html**
+👉 **https://risnospd.github.io/mpi/index.html**
 
 Kemudian pilih **menu materi yang tersedia** sesuai jenjang dan kebutuhan pembelajaran.
 
@@ -57,8 +57,8 @@ Proyek ini dapat digunakan secara **gratis untuk keperluan pendidikan**.
 
 Jika memiliki pertanyaan, saran, atau masukan mengenai MPI TKA, silakan menghubungi:
 
-**Nirsinggih**
-📧 [nirsinggih@gmail.com](mailto:nirsinggih@gmail.com)
+**Risno**
+📧 [risno001@gmail.com](mailto:risno001@gmail.com)
 
 ---
 
